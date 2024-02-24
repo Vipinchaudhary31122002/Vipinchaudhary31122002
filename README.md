@@ -1,6 +1,3 @@
-<!--Profile visitor count-->
-[![](https://visitcount.itsvg.in/api?id=Vipinchaudhary31122002&icon=0&color=12)](https://visitcount.itsvg.in)
-
 <h1 align="center">Hi 👋, I'm Vipin Chaudhary</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
